@@ -32,7 +32,7 @@
   width: 100%;
   position: absolute;
   bottom: 0;
-  margin-left:3em;
+  padding-left:3em;
   margin-bottom: 3em;
   z-index: 1;
 }
@@ -70,7 +70,7 @@
   }
 
   .contenedor-titulo {
-    margin-left:1.5em;
+    padding-left:1.5em;
     margin-bottom: 2em;
   }
 
